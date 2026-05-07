@@ -10,6 +10,7 @@ global.rpgsave
 package/
 deployment/
 
+
 # OS 메타데이터
 .DS_Store
 Thumbs.db
