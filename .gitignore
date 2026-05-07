@@ -1,0 +1,24 @@
+CLAUDE.md
+
+# RPG Maker MZ — 저장 데이터 (플레이어 세이브, 런타임 생성 파일)
+save/
+*.rpgsave
+config.rpgsave
+global.rpgsave
+
+# 배포 빌드 산출물
+package/
+deployment/
+
+# OS 메타데이터
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 에디터 설정
+.vscode/
+.idea/
+
+# Node (nwjs 로컬 실행 시)
+node_modules/
+
