@@ -12,6 +12,6 @@ null,
 {"id":10,"flags":[16],"mode":1,"name":"인권센터","note":"","tilesetNames":["Inside_A1","Inside_A5","Outside_C","Inside_A2","","","","",""]},
 {"id":11,"flags":[16],"mode":1,"name":"경찰서","note":"","tilesetNames":["","","","","resturant_set","police_station_by_nicnubill_d9892fb","Bedroom Asset Pack 001","",""]},
 {"id":12,"flags":[16],"mode":1,"name":"디성센터","note":"","tilesetNames":["","","","","","","","",""]},
-{"id":13,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
+{"id":13,"flags":[16],"mode":1,"name":"카페","note":"","tilesetNames":["Outside_A3","","","","","CAFE-PREVIEW-2","resturant_set","",""]},
 {"id":14,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]}
 ]
