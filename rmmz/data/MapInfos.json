@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":false,"name":"타이틀","order":1,"parentId":0,"scrollX":410.4,"scrollY":607.8,"quick":false},
-{"id":2,"expanded":false,"name":"카페","order":2,"parentId":0,"scrollX":405.59999999999997,"scrollY":607.8,"quick":false},
-{"id":3,"expanded":false,"name":"주인공_방","order":4,"parentId":0,"scrollX":410.4,"scrollY":607.8,"quick":false},
+{"id":2,"expanded":false,"name":"카페","order":2,"parentId":0,"scrollX":405.59999999999997,"scrollY":535.8,"quick":false},
+{"id":3,"expanded":false,"name":"주인공_방","order":4,"parentId":0,"scrollX":410.4,"scrollY":535.8,"quick":false},
 {"id":4,"expanded":false,"name":"학교","order":3,"parentId":0,"scrollX":370.8,"scrollY":607.8,"quick":false},
 {"id":5,"expanded":false,"name":"인권센터","order":5,"parentId":0,"scrollX":405.59999999999997,"scrollY":607.8,"quick":false},
 {"id":6,"expanded":false,"name":"디성센터","order":7,"parentId":0,"scrollX":410.4,"scrollY":607.8,"quick":false},
