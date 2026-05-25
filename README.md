@@ -2,7 +2,7 @@
 
 > **바종설 4팀 XERO** — 딥페이크 성범죄 피해자를 위한 웹 정보 플랫폼 + 체험형 미니게임
 
-<img src="image/screenshot2.png" width="400" alt="웹 플랫폼 화면">
+<img src="image/screenshot2.png" width="700" alt="웹 플랫폼 화면">
 
 팀 XERO는 **성범죄(Sex crime)를 제로(Zero)로** 만들겠다는 단호한 의지를 담아 탄생했습니다.  
 딥페이크 성범죄라는 어두운 현실 속에서 피해자들이 막막하고 두렵게 느낄 수 있는 복잡한 대응 절차를,  
@@ -14,7 +14,7 @@
 ---
 
 ## 게임 플레이 화면
-<img src="image/screenshot1.png" width="400" alt="게임 플레이 화면">
+<img src="image/screenshot1.png" width="700" alt="게임 플레이 화면">
 
 ---
 
